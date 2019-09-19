@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22683c2e.chunk.css",
+    "main.js": "/static/js/main.359eae7a.chunk.js",
+    "main.js.map": "/static/js/main.359eae7a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.ad9eb4b5.chunk.css": "/static/css/2.ad9eb4b5.chunk.css",
+    "static/js/2.833d4fd8.chunk.js": "/static/js/2.833d4fd8.chunk.js",
+    "static/js/2.833d4fd8.chunk.js.map": "/static/js/2.833d4fd8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.54d88c371c818dda4102a18db9023f35.js": "/precache-manifest.54d88c371c818dda4102a18db9023f35.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ad9eb4b5.chunk.css.map": "/static/css/2.ad9eb4b5.chunk.css.map",
+    "static/css/main.22683c2e.chunk.css.map": "/static/css/main.22683c2e.chunk.css.map",
+    "static/media/Edinson.jpeg": "/static/media/Edinson.15886877.jpeg",
+    "static/media/Emer.jpeg": "/static/media/Emer.9915d7f0.jpeg",
+    "static/media/Geral.jpeg": "/static/media/Geral.02b306e3.jpeg",
+    "static/media/GoPichanga.jpg": "/static/media/GoPichanga.59d7bf87.jpg",
+    "static/media/Logo.png": "/static/media/Logo.cf9ea256.png",
+    "static/media/Vision.png": "/static/media/Vision.591cfa93.png",
+    "static/media/background1.jpg": "/static/media/background1.e62fd4af.jpg",
+    "static/media/background2.jpg": "/static/media/background2.9592778c.jpg",
+    "static/media/background3.jpg": "/static/media/background3.5067b3f9.jpg",
+    "static/media/fondo1.jpg": "/static/media/fondo1.55202245.jpg",
+    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+  }
+}
